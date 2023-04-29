@@ -1,0 +1,11 @@
+{
+  "name": "demo-latino-library",
+  "version": "1.0.0",
+  "description": "Demo library to be published as NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Latino Net Team",
+  "license": "MIT"
+}
